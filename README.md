@@ -1,2 +1,3 @@
 # I.A.R.C.
-Interactive story coded in python in french. Currently in development during my free time.
+## Interactive story coded in python. Currently in development during my free time.
+* Actually in French but must be translate later...
